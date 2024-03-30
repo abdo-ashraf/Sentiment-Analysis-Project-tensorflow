@@ -1,1 +1,3 @@
 # Sentiment-Analysis-Project
+## This will be ISA Sentiment Analysis Project to analyse products reviews using seqence models
+# ->> ONGoing...
