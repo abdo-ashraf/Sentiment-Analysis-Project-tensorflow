@@ -1,6 +1,8 @@
 # Sentiment-Analysis-LSTM-Project
 ## This will be ISA Sentiment Analysis Project to analyse Movies reviews using seqence model:
-## Big Thanks to SKillC: https://www.youtube.com/watch?v=oWo9SNcyxlI
+## Big Thanks to:
+>>### SKillC: https://www.youtube.com/watch?v=oWo9SNcyxlI
+>>### Jason Brownlee: https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 ## Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ### Performance:
