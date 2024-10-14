@@ -1,5 +1,5 @@
 # Sentiment-Analysis-LSTM-Project
-## This will be ISA Sentiment Analysis Project to analyse Movies reviews using seqence model:
+## This is Sentiment Analysis Project to analyse Movies reviews using seqence model:
 ## Big Thanks to:
 >>### SKillC: https://www.youtube.com/watch?v=oWo9SNcyxlI
 >>### Jason Brownlee: https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
