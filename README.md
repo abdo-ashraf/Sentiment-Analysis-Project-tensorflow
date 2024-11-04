@@ -6,6 +6,12 @@
 ## Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ### Performance:
-  - Train Accuracy: 95.75% 
-  - Validation Accuracy: 84.38%
-  - Test Accuracy: 84.14%
+  - Tensorflow:
+    - Train Accuracy: 95.75% 
+    - Validation Accuracy: 84.38%
+    - Test Accuracy: 84.14%
+   
+- pytorch:
+    - Train Accuracy: 93.89% 
+    - Validation Accuracy: 83.34%
+    - Test Accuracy: 83.04%
