@@ -1,5 +1,6 @@
 # Sentiment-Analysis-LSTM-Project
 ## This is Sentiment Analysis Project to analyse Movies reviews using seqence model:
+## Deployment Link: https://huggingface.co/spaces/TheDemond/Movie-reviews-analyzer
 ## Big Thanks to:
 >>### SKillC: https://www.youtube.com/watch?v=oWo9SNcyxlI
 >>### Jason Brownlee: https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
