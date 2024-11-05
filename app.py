@@ -25,6 +25,7 @@ def pre_processor(text):
 
 def post_processor(raw_output):
     label = (raw_output >= 0.5).int()
+    raw_output = raw_output if label else 1-raw_output
     return idx_to_cls[label.item()].capitalize(), round(raw_output.item(), 2)
 
 
