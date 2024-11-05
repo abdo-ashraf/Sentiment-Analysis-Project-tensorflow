@@ -2,7 +2,9 @@ import torch
 import gradio as gr
 from Vocabulary import spacy_tokenizer
 from Model_define import Sentiment_LSTM
+import os
 
+os.system('python -m spacy download en_core_web_sm')
 
 device = 'gpu' if torch.cuda.is_available() else 'cpu'
 
